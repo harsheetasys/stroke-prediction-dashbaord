@@ -61,17 +61,17 @@ The core analysis was conducted in the `stroke_analysis.ipynb` notebook, using `
 
 ```
 .
-├── sql_queries/                # Screenshots of PostgreSQL queries
-├── python_outputs/             # Images generated from the Jupyter Notebook
-├── powerbi_dashboard/          # Screenshots of the final dashboard
-├── cleaned_data.sql            # SQL script to clean the raw data
+├── sql_queries/                        # Screenshots of PostgreSQL queries
+├── python_outputs/                     # Images generated from the Jupyter Notebook
+├── powerbi_dashboard/                  # Screenshots of the final dashboard
+├── cleaned_data.sql                    # SQL script to clean the raw data
 ├── healthcare-dataset-stroke-data.xlsx # Raw dataset (from Kaggle)
-├── stroke_data_cleaned.xlsx # Cleaned dataset after SQL processing
-├── stroke_data_for_dashboard.xlsx # Final dataset prepared for Power BI
-├── powerbi_source_data.xlsx # Python-prepared dataset for Power BI
-├── stroke_analysis.ipynb       # The main Python notebook for analysis
-├── stroke_analysis.pbix        # The final Power BI dashboard file
-└── README.md                   # This file
+├── stroke_data_cleaned.xlsx            # Cleaned dataset after SQL processing
+├── stroke_data_for_dashboard.xlsx      # Final dataset prepared for Power BI
+├── powerbi_source_data.xlsx            # Python-prepared dataset for Power BI
+├── stroke_analysis.ipynb               # The main Python notebook for analysis
+├── stroke_analysis.pbix                # The final Power BI dashboard file
+└── README.md                           # This file
 ```
 
 -----

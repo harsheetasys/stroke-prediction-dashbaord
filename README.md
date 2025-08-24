@@ -97,4 +97,4 @@ The core analysis was conducted in the `stroke_analysis.ipynb` notebook, using `
 4.  **View the Dashboard:**
 
       * Open the `stroke_analysis.pbix` file using Power BI Desktop.
-      * If prompted, connect the dashboard to the `powerbi_source_data.csv` file you generated in the previous step. also add the : all these files in the project str
+      * If prompted, connect the dashboard to the `powerbi_source_data.csv` file you generated in the previous step. 
